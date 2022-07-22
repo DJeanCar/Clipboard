@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "username": "admin",
+      "password": "adminpassword"
+    },
+    {
+      "username": "djeancar",
+      "password": "mypassword"
+    }
+  ]
+}
